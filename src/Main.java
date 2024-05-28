@@ -12,7 +12,6 @@ public class Main {
                 System.out.print(arr1[i] + ", ");
             } else {
                 System.out.print(arr1[i] + "\n");
-
             }
         }
 
@@ -21,7 +20,6 @@ public class Main {
                 System.out.print(arr2[i] + ", ");
             } else {
                 System.out.print(arr2[i] + "\n");
-
             }
         }
 
@@ -30,7 +28,6 @@ public class Main {
                 System.out.print(arr3[i] + ", ");
             } else {
                 System.out.print(arr3[i] + "\n");
-
             }
         }
 
@@ -41,7 +38,6 @@ public class Main {
                 System.out.print(arr1[i] + ", ");
             } else {
                 System.out.print(arr1[i] + "\n");
-
             }
         }
 
@@ -50,7 +46,6 @@ public class Main {
                 System.out.print(arr2[i] + ", ");
             } else {
                 System.out.print(arr2[i] + "\n");
-
             }
         }
 
@@ -59,7 +54,6 @@ public class Main {
                 System.out.print(arr3[i] + ", ");
             } else {
                 System.out.print(arr3[i] + "\n");
-
             }
         }
 
@@ -76,7 +70,6 @@ public class Main {
                 System.out.print(arr1[i] + ", ");
             } else {
                 System.out.print(arr1[i] + "\n");
-
             }
         }
     }
